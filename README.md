@@ -1,6 +1,9 @@
 HackerBox 0110 — RP2040-based synth expression visualizer
 Purpose
 
+Credit to https://gist.github.com/todbot for the original code
+https://gist.github.com/todbot/532e069845c2cc4c1bc39c9162a34bfe
+
    Generates 2-note synth drone sounds using the onboard rotary encoders
 
  hb0110-pip2-smile.py  Visualizes pitch via an expressive smiley face:
