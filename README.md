@@ -3,10 +3,10 @@ Purpose
 
    Generates 2-note synth drone sounds using the onboard rotary encoders
 
-   Visualizes pitch via an expressive smiley face:
- 🟢 Mouth curves from smile to frown based on note1
- 🔵 Eyebrows tilt from sad to angry across −45° to +45° based on note2
-
+ hb0110-pip2-smile.py  Visualizes pitch via an expressive smiley face:
+ hb0110-pip2-waveform-sbs.py side by side waves
+ hb0110-pip2-waveform.py horizontal waves
+ 
 Hardware Requirements
 
   HackerBox 0110 kit
